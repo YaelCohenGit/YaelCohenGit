@@ -14,7 +14,7 @@ I'm actively seeking a challenging position where I can apply my skills and leve
 If you have an opportunity or a project you'd like to discuss, please feel free to contact me:
 - 📫 You can contact me via email at yael504030@gmail.com
 - ⚡ favorite Quote: "Programming is like poetry"
-- 
+
 Let's build amazing things together!
 
 <!---
