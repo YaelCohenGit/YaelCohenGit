@@ -14,7 +14,7 @@ I enjoy working with a diverse range of technologies to build scalable applicati
 
 ## 🛠️ Technologies & Tools
 ### Languages & Frameworks:
-- **C#, .NET Core, Java, Python, C, C++**  
+- **C#, .NET Core, Python, Java, C, C++**  
 - **JavaScript, Node.js, React.js, jQuery**  
 - **HTML5, CSS3**
 - **SQL, MongoDB** 
