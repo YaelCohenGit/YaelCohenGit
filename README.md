@@ -17,7 +17,8 @@ I enjoy working with a diverse range of technologies to build scalable applicati
 - **C#, .NET Core, Python, Java, C, C++**  
 - **JavaScript, Node.js, React.js, jQuery**  
 - **HTML5, CSS3**
-- **SQL, MongoDB** 
+- **Databases: SQL Server, MongoDB**
+- **IDE'S: Visual studio, Visual studio code, NetBeans, .Net Core, Jupyter-notebook, Pycharm**
 
 ### Tools & Platforms:
 - **Docker, Git, GCP**
