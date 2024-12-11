@@ -16,7 +16,8 @@ I enjoy working with a diverse range of technologies to build scalable applicati
 ### Languages & Frameworks:
 - **C#, .NET Core, Java, Python, C, C++**  
 - **JavaScript, Node.js, React.js, jQuery**  
-- **HTML5, CSS3, SQL, MongoDB**
+- **HTML5, CSS3**
+- **SQL, MongoDB** 
 
 ### Tools & Platforms:
 - **Docker, Git, GCP**
