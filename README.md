@@ -24,7 +24,7 @@ I enjoy working with a diverse range of technologies to build scalable applicati
 
 ### Python Libraries:
 - **NumPy, Pandas, TensorFlow, Matplotlib**  
-- **OpenCV, Seaborn, FastAPI**
+- **OpenCV, Seaborn, Flask, FastAPI**
 
 ---
 
