@@ -8,7 +8,7 @@ I enjoy working with a diverse range of technologies to build scalable applicati
 ## 🌟 About Me
 <!--- - 🌱 Currently learning **Cloud Computing with GCP**. --->
 - 💞️ Looking to collaborate on diverse projects that explore new technologies, refine problem-solving skills, and make meaningful contributions to the global community.
-- ⚡ Favorite Quote: *"Programming is like poetry."*
+<!--- - ⚡ Favorite Quote: *"Programming is like poetry."* --->
 
 ---
 
